@@ -1,0 +1,25 @@
+,
+    {
+        "id":3,
+        "name":"Market Place",
+        "route":"devotional/market",
+        "description":"Devotional e-market place and online pooja stores."
+    },
+    {
+        "id":4,
+        "name":"Astro service & Event management",
+        "route":"devotional/eventmanagement",
+        "description":"Devotional Astro services and aspecious event management."
+    },
+    {
+        "id":5,
+        "name":"Health",
+        "route":"devotional/health",
+        "description":"Ayurvedic health information and consultants."
+    },
+    {
+        "id":6,
+        "name":"Wealth",
+        "route":"devotional/wealth",
+        "description":"Devotional wealth management and aspecious time and pooja."
+    }
