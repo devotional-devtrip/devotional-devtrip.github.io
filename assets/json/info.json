@@ -1,0 +1,38 @@
+[
+    {
+        "id":1,
+        "name":"Books",
+        "route":"devotional/books",
+        "description":"Books and other devotional contents, blog etc. Books and other devotional contents, blog etc. Books and other devotional contents, blog etc. "
+    },
+    {
+        "id":2,
+        "name":"Multimedia",
+        "route":"devotional/multimedia",
+        "description":"Devotional songs, video, radio channels and live broadcasts."
+    },
+    {
+        "id":3,
+        "name":"Market Place",
+        "route":"devotional/market",
+        "description":"Devotional e-market place and online pooja stores."
+    },
+    {
+        "id":4,
+        "name":"Astro service & Event management",
+        "route":"devotional/eventmanagement",
+        "description":"Devotional Astro services and aspecious event management."
+    },
+    {
+        "id":5,
+        "name":"Health",
+        "route":"devotional/health",
+        "description":"Ayurvedic health information and consultants."
+    },
+    {
+        "id":6,
+        "name":"Wealth",
+        "route":"devotional/wealth",
+        "description":"Devotional wealth management and aspecious time and pooja."
+    }
+]

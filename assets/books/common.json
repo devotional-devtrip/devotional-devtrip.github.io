@@ -1,0 +1,30 @@
+[
+    {
+        "id":1,
+        "name": "AIRHOCKEY",
+        "category": "Flash",
+        "rule": [{"seq":"1", "data":"All basic rules are implemented with this e-game. Its an AIRHOCKEY game, running its paddle from AIR flow and pressure, and on contact with player rackets."}, 
+            {"seq":"2", "data":"Only hit with player racket will accellerate the paddle."},
+            {"seq":"3", "data":"Player able to pocket the paaddle in opponent side, will get one point. And if opponent pocket this in self, again player will get a point. "},
+            {"seq":"4", "data":"If player did not respond with his turn the paddle interruption did not happen and user is not able to see accurate state of paddle."},
+            {"seq":"5", "data":"A 7 point score will declare the winner. Winner will be eligible to get refund of there entry amount. And if one player left the table at any case the second will be declared as winner."},
+            {"seq":"6", "data":"At any stage management decision will be the final, and both player have to fallow that decision."}
+        ]
+    },
+    {
+        "id":2,
+        "name": "CHESS",
+        "category": "HTML5",
+        "rule": [{"seq":"1", "data":"All basic chess rules are implemented with this e-game. Pawn can move vertically towards opponent and can kill diagonally. This can have EnPassent move to kill Opponent Pawn only, comes paralle to it in first move, by jumping 2 blocks. Pawn can be promoted to Horse if its reached to last/highest row."}, 
+            {"seq":"2", "data":"Elephant/Rook can move all the way vertically and horizontaly without Jumping over an element. Horse/Knight only pieces that jump off the board, this move in a 'L' shape. Two spaces in a direction forward, backward or side-to-side, and one space at a right turn. "},
+            {"seq":"3", "data":"Bishops move in continuous diagonal lines in any direction."},
+            {"seq":"4", "data":"The queen moves in continuous diagonal and straight lines. Forward, backward and side-to-side."},
+            {"seq":"5", "data":"The king can move in any direction, one square at a time. A king cannot move to a square that is under attack by the opponent. King can have a Castling, this is the only move that allows two pieces to move during the same turn. During castling a king moves two spaces towards the rook that it will castle with, and the rook jumps to the other side. The king can castle to either side as long as: 1 - The king has not moved. 2. The king is not in check. 3. The king does not move through or into check. 4. There are no pieces between the king and castling-side rook. 5. The castling-side rook has not moved. "},
+            {"seq":"6", "data":"A king is in check when an opponent's piece is in a position that can attack the king. A player must move their king out of check, block the check or capture the attacking piece. A player cannot move their king into check."},
+            {"seq":"7", "data":"Putting an opponent's king in checkmate is the only way to win the game. A king is in checkmate if it is in check, the opponent's piece that has the king in check cannot be captured, the check cannot be blocked, and the king cannot move to a square that is not under attack."},
+            {"seq":"8", "data":"A Stalemate is a tie. It is achieved if there are no legal moves for a player to make. "},
+            {"seq":"9", "data":"Winner will be eligible to get refund of there entry amount. No One is a winner for tie/sattlement case. And if one player left the table at any case the second will be declared as winner."},
+            {"seq":"10", "data":"At any stage management decision will be the final, and both player have to fallow that decision."}
+        ]
+    }
+]
