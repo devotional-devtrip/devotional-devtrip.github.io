@@ -9,5 +9,16 @@
         "authorurl":"",
         "copyright":"",
         "route":"sunderkand"
+    },
+    {
+        "id":2,
+        "name":"Sai baba book",
+        "description":"Sai Baba Book contains vrat story, arati, 108 names and other auspecious mantras.",
+        "author":"anonymous",
+        "contenturl":"",
+        "bookurl":"",
+        "authorurl":"",
+        "copyright":"",
+        "route":"saibababook"
     }
 ]
