@@ -1,0 +1,79 @@
+[
+    {
+        "type":"audio",
+        "item":[
+            {
+                "id":1,
+                "title": "Seer Pe Sita Ram",
+                "link": "assets/multimedia/audio/SeerPeSitaRam.mp3",
+                "description":"Seer Pe Sita Ram",
+                "author":"anonymous",
+                "authorurl":"",
+                "copyright":""
+            },
+            {
+                "id":2,
+                "title": "Achutam Keshvam",
+                "link": "assets/multimedia/audio/Achutam_Keshvam.mp3",
+                "description":"Achutam Keshvam Song",
+                "author":"anonymous",
+                "authorurl":"",
+                "copyright":""
+            },
+            {
+                "id":3,
+                "title": "Shri Hanuman Chalisa",
+                "link": "assets/multimedia/audio/Shri_Hanuman_Chalisa-Hari_Om_Saran.mp3",
+                "description":"Shri Hanuman Chalisa",
+                "author":"Hari Om Saran",
+                "authorurl":"",
+                "copyright":""
+            },
+            {
+                "id":4,
+                "title": "Shri Krishna Govind",
+                "link": "assets/multimedia/audio/Shri_Krishna_Govind.mp3",
+                "description":"Shri Krishna Govind",
+                "author":"anonymous",
+                "authorurl":"",
+                "copyright":""
+            },
+            {
+                "id":5,
+                "title": "Nikunj Mein Biraje",
+                "link": "assets/multimedia/audio/Nikunj_Mein_Biraje.mp3",
+                "description":"Nikunj Mein Biraje",
+                "author":"anonymous",
+                "authorurl":"",
+                "copyright":""
+            }
+        ]
+    },
+    {
+        "type":"video",
+        "item":[
+            {
+                "id":1,
+                "name":"Sundarkand",
+                "description":"Sundarkand of Tulshidas Ramayan",
+                "author":"Tulshidas",
+                "contenturl":"",
+                "bookurl":"",
+                "authorurl":"",
+                "copyright":"",
+                "route":"sunderkand"
+            },
+            {
+                "id":2,
+                "name":"Sai baba book",
+                "description":"Sai Baba Book contains vrat story, arati, 108 names and other auspecious mantras.",
+                "author":"anonymous",
+                "contenturl":"",
+                "bookurl":"",
+                "authorurl":"",
+                "copyright":"",
+                "route":"saibababook"
+            }
+        ]
+    }   
+]
