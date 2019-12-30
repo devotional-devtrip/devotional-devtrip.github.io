@@ -1,0 +1,14 @@
+[
+    {
+        "id":1,
+        "name": "AYOUDHYAKAND",
+        "displayname":"सुन्दर काण्ड",
+        "config": {"itemsPerPage":3,"currentPage":1},
+        "page": [
+            {"seq":"1", "heading":"श्लोक", "data":""},
+            {"seq":"2", "heading":"चौपाई", "data":""},
+            {"seq":"3", "heading":"दोहा", "data":""},
+            {"seq":"4", "heading":"छंद", "data":""}
+        ]
+    }
+]
