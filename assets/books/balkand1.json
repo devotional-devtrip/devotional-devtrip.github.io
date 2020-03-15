@@ -1,7 +1,7 @@
 [
     {
         "id":1,
-        "name": "BALKAND",
+        "name": "BALKAND1",
         "displayname":"बालकाण्ड",
         "config": {"itemsPerPage":4,"currentPage":1},
         "page": [
