@@ -77,34 +77,44 @@
                 "route":"balkand3"
             },
             {
-                "name":"Ayoudhya Kand",
-                "description":"Ayoudhya Kand of Shri Ramcharit Manas",
+                "name":"Ayoudhya Kand - I",
+                "description":"Ayoudhya Kand of Shri Ramcharit Manas, Navanhaparayan fourth rest.",
                 "author":"Tulshidas",
                 "contenturl":"",
                 "bookurl":"",
                 "authorurl":"",
                 "copyright":"",
-                "route":"ayoudhyakand"
+                "route":"ayoudhyakand1"
             },
             {
+                "name":"Ayoudhya Kand - II",
+                "description":"Ayoudhya Kand of Shri Ramcharit Manas, Navanhaparayan fifth rest.",
+                "author":"Tulshidas",
+                "contenturl":"",
+                "bookurl":"",
+                "authorurl":"",
+                "copyright":"",
+                "route":"ayoudhyakand2"
+            },
+            {
+                "name":"Ayoudhya Kand - III",
+                "description":"Ayoudhya Kand of Shri Ramcharit Manas.",
+                "author":"Tulshidas",
+                "contenturl":"",
+                "bookurl":"",
+                "authorurl":"",
+                "copyright":"",
+                "route":"ayoudhyakand3"
+            },
+			{
                 "name":"Aranya Kand",
-                "description":"Aranya Kand of Shri Ramcharit Manas",
+                "description":"Aranya Kand of Shri Ramcharit Manas.",
                 "author":"Tulshidas",
                 "contenturl":"",
                 "bookurl":"",
                 "authorurl":"",
                 "copyright":"",
                 "route":"aranyakand"
-            },
-            {
-                "name":"Kiskindha Kand",
-                "description":"Kiskindha Kand of Shri Ramcharit Manas",
-                "author":"Tulshidas",
-                "contenturl":"",
-                "bookurl":"",
-                "authorurl":"",
-                "copyright":"",
-                "route":"kiskindhakand"
             },
             {
                 "name":"Sundar Kand",
