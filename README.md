@@ -87,3 +87,12 @@ Just update IIS manager to point localhost(127.0.0.1) on root dir of downloaded 
 5. Save this json file and refresh web  page. 
 
 ````
+
+## Test book content
+
+validate content manually and mark issue and inform in a mail to devtrip.dev@gmail.com
+
+## Sahre Updated file
+
+Send the updated json file in a zip to devtrip.dev@gmail.com, by renaming file extension to .txt .
+
