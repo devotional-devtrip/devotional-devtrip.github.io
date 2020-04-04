@@ -108,13 +108,23 @@
             },
 			{
                 "name":"Aranya Kand",
-                "description":"Aranya Kand of Shri Ramcharit Manas.",
+                "description":"Aranya Kand of Shri Ramcharit Manas, Navanhaparayan Sixth rest.",
                 "author":"Tulshidas",
                 "contenturl":"",
                 "bookurl":"",
                 "authorurl":"",
                 "copyright":"",
                 "route":"aranyakand"
+            },
+            {
+                "name":"Kiskindha Kand",
+                "description":"Kiskindha Kand of Shri Ramcharit Manas.",
+                "author":"Tulshidas",
+                "contenturl":"",
+                "bookurl":"",
+                "authorurl":"",
+                "copyright":"",
+                "route":"kiskindhakand"
             },
             {
                 "name":"Sundar Kand",
